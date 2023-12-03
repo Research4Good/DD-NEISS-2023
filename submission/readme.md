@@ -16,3 +16,10 @@
   CPU times: user 15.8 s, sys: 14.8 s, total: 30.6 s
   Wall time: 44.6 s
   ```
+
+- [Output showing word embedding extraction using model 1, 2](neiss-cleaned-3-4.ipynb)
+```
+
+```
+- Outputs showing word embedding extraction using LEALLA model: please see these notebooks:
+
