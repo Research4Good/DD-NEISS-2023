@@ -3,7 +3,7 @@
 ## Reproducible scripts
 
 ### Version 0.1
-[Notebook showing outputs generated in one file (integrated with code in ```*py```)](https://github.com/Research4Good/DD-NEISS-2023/blob/main/submission/n-optuna-11c-t2hosp__part4_DEFN2.ipynb
+[Notebook showing outputs generated in one file (integrated with code in ```*py```)](https://github.com/Research4Good/DD-NEISS-2023/blob/main/submission/n-optuna-11c-t2hosp__part4_DEFN2.ipynb)
 
 ### Version 0.2 
 
