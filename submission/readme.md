@@ -1,7 +1,7 @@
 
 ## 
 
-- [Output showing word embedding extraction using model 1, 2](n-raw-optuna-12.ipynb)
+- [Output showing word embedding extraction using model 1 & model 2](n-raw-optuna-12.ipynb)
 
   Output of code block 5:
   ```
@@ -17,9 +17,12 @@
   Wall time: 44.6 s
   ```
 
-- [Output showing word embedding extraction using model 1, 2](neiss-cleaned-3-4.ipynb)
+- [Output showing word embedding extraction using model 3 & 4](neiss-cleaned-3-4.ipynb)
 ```
-
+768 dimensions
+3 -261.5387110829353
+512 dimensions
+4 -1.6876668810844422
 ```
 - Outputs showing word embedding extraction using LEALLA model: please see these notebooks:
 
