@@ -2,11 +2,11 @@
 
 ## Reproducible scripts
 
-### Version 0.1
+### Version 1.1
 [Notebook showing outputs generated in one file ](https://github.com/Research4Good/DD-NEISS-2023/blob/main/submission/n-optuna-11c-t2hosp__part4_DEFN2.ipynb)
 -  i.e. integrated with code in ```*py```
  
-### Version 0.2 
+### Version 1.2 
 
 Please save a copy and run on your Colab drive:
 
